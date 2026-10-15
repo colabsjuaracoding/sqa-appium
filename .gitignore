@@ -1,0 +1,45 @@
+# Environment & Credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets/
+
+# Maven / Build Output
+target/
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
